@@ -30,4 +30,4 @@ Como rodar:
 - Executar o Visual Studio no IISExpress
 - Testar a API no SWAGGER
 
-Pessoal, espero que considerem tudo que fiz, eu fiz do zero mesmo, e por isso levou muito tempo também, agradeço a oportunidade.
+Pessoal, espero que considerem tudo que fiz, e agradeço a oportunidade.
