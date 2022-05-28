@@ -35,13 +35,6 @@ namespace CashFlow.Repository.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //IConfiguration configuration = new ConfigurationBuilder()
-            //                .SetBasePath(Directory.GetCurrentDirectory())
-            //                .AddJsonFile("appsettings.json")
-            //                .Build();
-            //var connectionString = configuration
-            //            .GetConnectionString("CashFlowConnectionString");
-            //optionsBuilder.UseSqlServer(connectionString);
         }
     }
 }
